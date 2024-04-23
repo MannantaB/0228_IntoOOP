@@ -14,6 +14,11 @@ public: // akses modifier
     }
 };
 
+class Matakuliah {
+
+};
+
+
 int main()
 {
     std::cout << "Hello World!\n";
