@@ -25,6 +25,8 @@ public:
         cin >> kodeMK;
         cout << "Nma MK: ";
         cin >> namaMK;
+        cout << "SKS: ";
+        cin >> sks;
     }
 };
 
