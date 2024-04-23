@@ -20,6 +20,9 @@ private:
     string namaMK;
     int sks;
 public:
+    void input() {
+
+    }
 };
 
 
