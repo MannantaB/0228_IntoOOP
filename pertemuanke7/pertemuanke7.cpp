@@ -37,7 +37,7 @@ public:
 };
 
 
-int main(){
+int main() {
     Mahasiswa mhs;
     Matakuliah mk;
 
@@ -48,4 +48,6 @@ int main(){
 
     mk.input();
     mk.output();
+
+    return 0;
 }
